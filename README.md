@@ -9,9 +9,6 @@ I’m deeply curious, always learning, and constantly experimenting with new tec
 
 ## 🛠️ Tech I Work With
 
-
-## 🛠️ Tech I Work With
-
 | 🎨 **Frontend** | ⚙️ **Backend** | ☁️ **Databases & Cloud** |
 |----------------|---------------|--------------------------|
 | ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB |
