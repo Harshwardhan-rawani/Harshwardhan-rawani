@@ -1,7 +1,75 @@
-# 💫 About Me:
-Hi, I’m Harshwardhan — a Software Engineer and AI Developer who loves turning complex ideas into clean, scalable, real-world products. I build systems that are not just functional, but reliable, efficient, and enjoyable to use.
-<br>🛠️ Tech I Work With<br>
-I’m deeply curious, always learning, and constantly experimenting with new technologies. Whether it’s shipping a SaaS product, building an AI-powered application, or optimizing performance, I approach every project with ownership, clarity, and attention to detail.<br>Frontend<br><br>React.js, Next.js, JavaScript, TypeScript<br><br>Tailwind CSS, Framer Motion, modern UI/UX practices<br><br>Backend<br><br>Node.js, Express.js<br><br>Django, REST APIs, WebSockets<br><br>Databases & Cloud<br><br>MongoDB, PostgreSQL<br><br>Git, GitHub, Vercel, Cloud deployment<br><br>AI / Machine Learning<br><br>Python, NumPy, Pandas, Matplotlib<br><br>Machine Learning models, data preprocessing<br><br>LLM integration (ChatGPT, open-source models)<br><br>AI agents, RAG systems, intelligent chatbots<br><br>🎓 Education<br><br>Bachelor’s Degree (4rd Year)<br>Focused on Computer Science fundamentals, software engineering, and applied machine learning<br><br>Continuously learning through projects, open-source work, and real-world problem solving<br>⚡ Fun Fact About Me<br><br>I don’t just learn technologies — I stress-test them by building real products. If something can be automated, optimized, or made smarter with AI, I’ll probably try to build it 😄
+# 💫 About Me
+
+Hi, I’m **Harshwardhan** — a **Software Engineer and AI Developer** who loves turning complex ideas into clean, scalable, real-world products.  
+I build systems that are not just functional, but **reliable, efficient, and enjoyable to use**.
+
+I’m deeply curious, always learning, and constantly experimenting with new technologies. Whether it’s shipping a **SaaS product**, building an **AI-powered application**, or **optimizing performance**, I approach every project with ownership, clarity, and attention to detail.
+
+---
+
+## 🛠️ Tech I Work With
+
+### Frontend
+- React.js  
+- Next.js  
+- JavaScript  
+- TypeScript  
+- Tailwind CSS  
+- Framer Motion  
+- Modern UI/UX Practices  
+
+### Backend
+- Node.js  
+- Express.js  
+- Django  
+- REST APIs  
+- WebSockets  
+
+### Databases & Cloud
+- MongoDB  
+- PostgreSQL  
+- Git & GitHub  
+- Vercel  
+- Cloud Deployment  
+
+### AI / Machine Learning
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Machine Learning Models  
+- Data Preprocessing  
+- LLM Integration (ChatGPT, Open-Source Models)  
+- AI Agents  
+- RAG Systems  
+- Intelligent Chatbots  
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree (4th Year)**  
+Focused on **Computer Science fundamentals**, **software engineering**, and **applied machine learning**.
+
+Continuously learning through:
+- Hands-on projects  
+- Open-source contributions  
+- Real-world problem solving  
+
+---
+
+## ⚡ Fun Fact About Me
+
+I don’t just learn technologies — I **stress-test them by building real products**.  
+If something can be automated, optimized, or made smarter with AI, I’ll probably try to build it 😄
+
+---
+
+### 🚀 Let’s Connect & Build
+
+I’m always open to collaborating on **impactful projects**, **startups**, and **innovative ideas**.  
+If you’re looking for someone who blends **strong engineering skills with AI-driven thinking**, feel free to connect.
+
 
 
 ## 🌐 Socials:
