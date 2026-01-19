@@ -9,42 +9,34 @@ I’m deeply curious, always learning, and constantly experimenting with new tec
 
 ## 🛠️ Tech I Work With
 
-### Frontend
-- React.js  
-- Next.js  
-- JavaScript  
-- TypeScript  
-- Tailwind CSS  
-- Framer Motion  
-- Modern UI/UX Practices  
 
-### Backend
-- Node.js  
-- Express.js  
-- Django  
-- REST APIs  
-- WebSockets  
-
-### Databases & Cloud
-- MongoDB  
-- PostgreSQL  
-- Git & GitHub  
-- Vercel  
-- Cloud Deployment  
-
-### AI / Machine Learning
-- Python  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Machine Learning Models  
-- Data Preprocessing  
-- LLM Integration (ChatGPT, Open-Source Models)  
-- AI Agents  
-- RAG Systems  
-- Intelligent Chatbots  
+| **Frontend & UI** | **Backend & Cloud** |
+|------------------|--------------------|
+| React.js | Node.js |
+| Next.js | Express.js |
+| JavaScript | Django |
+| TypeScript | REST APIs |
+| Tailwind CSS | WebSockets |
+| Framer Motion | MongoDB |
+| Modern UI/UX Practices | PostgreSQL |
+|  | Git & GitHub |
+|  | Vercel |
+|  | Cloud Deployment |
 
 ---
+
+| **AI / Machine Learning** | **Tools & Practices** |
+|--------------------------|-----------------------|
+| Python | Git |
+| NumPy | GitHub |
+| Pandas | API Design |
+| Matplotlib | SaaS Architecture |
+| Machine Learning Models | Performance Optimization |
+| Data Preprocessing | Clean Code Practices |
+| LLM Integration (ChatGPT, Open-Source Models) | System Design |
+| AI Agents |  |
+| RAG Systems |  |
+| Intelligent Chatbots |  |
 
 ## 🎓 Education
 
