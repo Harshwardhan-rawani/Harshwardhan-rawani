@@ -10,33 +10,34 @@ I’m deeply curious, always learning, and constantly experimenting with new tec
 ## 🛠️ Tech I Work With
 
 
-| **Frontend & UI** | **Backend & Cloud** |
-|------------------|--------------------|
-| React.js | Node.js |
-| Next.js | Express.js |
-| JavaScript | Django |
-| TypeScript | REST APIs |
-| Tailwind CSS | WebSockets |
-| Framer Motion | MongoDB |
-| Modern UI/UX Practices | PostgreSQL |
-|  | Git & GitHub |
-|  | Vercel |
-|  | Cloud Deployment |
+## 🛠️ Tech I Work With
+
+| 🎨 **Frontend** | ⚙️ **Backend** | ☁️ **Databases & Cloud** |
+|----------------|---------------|--------------------------|
+| ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB |
+| ⏭️ Next.js | 🚂 Express.js | 🐘 PostgreSQL |
+| 🟨 JavaScript | 🐍 Django | 🔧 Git & GitHub |
+| 🔷 TypeScript | 🔗 REST APIs | ▲ Vercel |
+| 🎨 Tailwind CSS | 🔄 WebSockets | ☁️ Cloud Deployment |
+| 🎬 Framer Motion |  |  |
+| 🧠 Modern UI/UX |  |  |
+
 
 ---
 
-| **AI / Machine Learning** | **Tools & Practices** |
-|--------------------------|-----------------------|
-| Python | Git |
-| NumPy | GitHub |
-| Pandas | API Design |
-| Matplotlib | SaaS Architecture |
-| Machine Learning Models | Performance Optimization |
-| Data Preprocessing | Clean Code Practices |
-| LLM Integration (ChatGPT, Open-Source Models) | System Design |
-| AI Agents |  |
-| RAG Systems |  |
-| Intelligent Chatbots |  |
+| 🤖 **AI / Machine Learning** | 🧰 **Tools & Practices** |
+|----------------------------|-------------------------|
+| 🐍 Python | 🔧 Git |
+| 📐 NumPy | 🐙 GitHub |
+| 🐼 Pandas | 🔌 API Design |
+| 📊 Matplotlib | 🏗️ SaaS Architecture |
+| 🧠 Machine Learning Models | ⚡ Performance Optimization |
+| 🧹 Data Preprocessing | 🧼 Clean Code Practices |
+| 🧬 LLM Integration (ChatGPT, Open-Source Models) | 🧩 System Design |
+| 🤖 AI Agents |  |
+| 📚 RAG Systems |  |
+| 💬 Intelligent Chatbots |  |
+
 
 ## 🎓 Education
 
