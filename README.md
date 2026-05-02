@@ -1,9 +1,10 @@
-# 💫 About Me
+# Hey, I'm Harshwardhan Rawani 👋
 
-Hi, I’m **Harshwardhan** — a **Software Engineer and AI Developer** who loves turning complex ideas into clean, scalable, real-world products.  
-I build systems that are not just functional, but **reliable, efficient, and enjoyable to use**.
+**AI Engineer · Data Scientist · ML Engineer** | Bangalore, India
 
-I’m deeply curious, always learning, and constantly experimenting with new technologies. Whether it’s shipping a **SaaS product**, building an **AI-powered application**, or **optimizing performance**, I approach every project with ownership, clarity, and attention to detail.
+## About me
+Final-year B.Tech CS (AI/ML) at Aditya University, graduating 2026.  
+I build end-to-end ML systems — from raw data pipelines to production deployment. My work spans fraud detection, LLM fine-tuning, RAG chatbots, and multimodal AI. I care about real-world performance: every project I ship has metrics that matter.
 
 ---
 
