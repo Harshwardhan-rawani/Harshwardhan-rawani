@@ -39,8 +39,9 @@ I build end-to-end ML systems — from raw data pipelines to production deployme
 
 ## 🎓 Education
 
-**Bachelor’s Degree (4th Year)**  
-Focused on **Computer Science fundamentals**, **software engineering**, and **applied machine learning**.
+**B.Tech 2026 Passout**  
+CGPA:- 8.2/10
+Focused on **Computer Science fundamentals**, and **machine learning**,**Generative Ai**
 
 Continuously learning through:
 - Hands-on projects  
