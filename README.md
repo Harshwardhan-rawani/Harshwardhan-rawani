@@ -10,20 +10,103 @@ I build end-to-end ML systems — from raw data pipelines to production deployme
 
 ## 🛠️ Tech I Work With
 
-| 🎨 **Frontend** | ⚙️ **Backend** | ☁️ **Databases & Cloud** |
-|----------------|---------------|--------------------------|
-| ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB |
-| 🚂 Express.js | 🐘 PostgreSQL |
-| 🟨 JavaScript | 🐍 Django | 🔧 Git & GitHub |
-| 🔷 TypeScript | 🔗 REST APIs | ▲ Vercel |
-| 🎨 Tailwind CSS | 🔄 WebSockets | ☁️ Cloud Deployment |
-| 🎬 Framer Motion |  |  |
-| 🧠 Modern UI/UX |  |  |
+# 🚀 Technical Skills
 
+## 🤖 Generative AI & LLMs
+
+| Skills | Technologies |
+|---------|--------------|
+| 🧠 LLM Models | GPT-4o, Claude, Gemini, LLaMA, Mistral |
+| 🧬 LLM Fine-Tuning | LoRA, QLoRA, PEFT |
+| 📚 RAG Systems | LangChain, LlamaIndex, FAISS |
+| 💬 AI Chatbots | Conversational AI, AI Assistants |
+| 🧠 Prompt Engineering | Few-shot, Chain-of-Thought, ReAct |
+| 🤖 AI Agents | CrewAI, AutoGen |
+| 🔗 Vector Databases | Pinecone, Weaviate, ChromaDB, Qdrant |
+| 🧠 Transformers | Hugging Face Transformers |
+| 🔍 OpenAI API | GPT Integration & Automation |
+| 🖼️ Multimodal AI | CLIP, Vision-Language Models |
 
 ---
 
-🤖 AI / Machine Learning📊 Data Science⚡ Generative AI & LLMs🛠️ Frameworks & Libraries🗄️ Data & Databases🧰 Tools & Practices🐍 Python📐 NumPy🧠 LLM Integration (GPT-4, Claude, Gemini)🔥 PyTorch🐘 PostgreSQL🔧 Git & GitHub🧹 Data Preprocessing🐼 Pandas🤖 AI Agents🧮 TensorFlow / Keras🍃 MongoDB🐳 Docker🧠 ML Models (Supervised / Unsupervised)📊 Matplotlib / Seaborn📚 RAG Systems🤗 Hugging Face Transformers🔴 Redis🔌 REST API Design🎯 Model Evaluation & Tuning📉 Statistical Analysis💬 Prompt Engineering🦜 LangChain☁️ Vector Databases (Pinecone, FAISS)🧩 System Design🔍 Feature Engineering📐 Hypothesis Testing🔗 LangGraph / Agentic Workflows🚀 FastAPI🗃️ SQL🏗️ SaaS Architecture🌲 Ensemble Methods (XGBoost, Random Forest)📊 EDA (Exploratory Data Analysis)🧬 Fine-Tuning LLMs🌐 Streamlit📦 ETL Pipelines⚡ Performance Optimization🧪 A/B Testing📈 Data Visualization🖼️ Multimodal AI🎛️ Scikit-learn🔗 ChromaDB🧼 Clean Code Practices🎛️ Hyperparameter Optimization🗂️ Data Wrangling🔎 Semantic Search🧠 OpenAI API📡 REST / GraphQL🔐 API Security📦 Model Deployment📊 Dashboarding (Power BI / Tableau)🤖 Chatbot Development🦙 Ollama (Local LLMs)🗄️ Firebase🧪 Unit Testing🧮 Deep Learning🔢 Feature Scaling & Encoding🗂️ Knowledge Base Design⚙️ Celery / Task Queues🛢️ MySQL📋 Agile / Scrum🔄 Transfer Learning📐 Dimensionality Reduction (PCA, t-SNE)🧩 Tool Calling & Function Use🌊 Kafka (basics)📂 Data Pipelines🚀 CI/CD Basics🛡️ Fraud Detection Systems📋 Model Interpretability (SHAP, LIME)🪄 AI Workflow Automation🖥️ React / Next.js☁️ AWS / GCP (basics)📄 Technical Documentation🎯 NLP (Text Classification, NER)📊 Time Series Analysis🔁 Retrieval-Augmented Generation🟢 Node.js / Express🐳 Docker Compose📐 DSA (400+ problems)🧠 Neural Networks (CNN, RNN, LSTM)🔍 Anomaly Detection🌐 Multi-Agent Systems🐍 Flask☁️ Supabase🔍 Code Review
+## 📊 Data Science & Analytics
+
+| Skills | Technologies |
+|---------|--------------|
+| 🐍 Programming | Python, SQL |
+| 🧮 Data Analysis | NumPy, Pandas |
+| 📈 Data Visualization | Matplotlib, Seaborn, Power BI |
+| 📚 Statistical Analysis | Hypothesis Testing, Data Insights |
+| 🧹 Data Cleaning | Missing Value Handling, Outlier Detection |
+| 📦 Data Processing | ETL Pipelines, Feature Pipelines |
+| 📊 Big Data Tools | PySpark, Databricks |
+| 📑 Data Handling | CSV, Excel, JSON Processing |
+
+---
+
+## 🧠 Machine Learning
+
+| Skills | Technologies |
+|---------|--------------|
+| 🤖 ML Algorithms | Regression, Classification, Clustering |
+| 🌲 Ensemble Learning | Random Forest, XGBoost, LightGBM |
+| 📌 Model Training | Cross Validation, Hyperparameter Tuning |
+| 🎯 Feature Engineering | Feature Selection & Optimization |
+| 📉 Model Evaluation | Accuracy, Precision, Recall, F1-Score |
+| 🔍 Scikit-learn | ML Pipeline Development |
+| 🧠 Recommendation Systems | Collaborative Filtering |
+| 📡 Predictive Modeling | Real-world ML Applications |
+
+---
+
+## 🧠 Deep Learning & Computer Vision
+
+| Skills | Technologies |
+|---------|--------------|
+| 🧠 Neural Networks | ANN, CNN, RNN, LSTM |
+| 🔄 Transfer Learning | ResNet, Pretrained Models |
+| 🤖 Transformers | Attention-based Architectures |
+| 🖼️ Computer Vision | YOLOv8, OpenCV |
+| 🛒 Visual Search Systems | CLIP, Image Embeddings |
+| 📷 Object Detection | Real-time Detection Models |
+| ⚡ Model Optimization | Performance Tuning |
+| 🧬 Deep Learning Frameworks | TensorFlow, PyTorch |
+
+---
+
+## ☁️ Cloud, DevOps & MLOps
+
+| Skills | Technologies |
+|---------|--------------|
+| ☁️ Cloud Platforms | AWS (S3, EC2, SageMaker, Lambda, Glue) |
+| 🐳 Containerization | Docker |
+| ⚡ CI/CD | Deployment Pipelines |
+| 🚀 Model Deployment | Scalable ML Systems |
+| 📈 Monitoring | Performance Tracking |
+| 🔄 Automation | Workflow Automation |
+| 🏗️ Cloud Architecture | Scalable Infrastructure |
+| 🔐 Security | Authentication & API Security |
+
+---
+
+## 💻 Full Stack Development
+
+| Skills | Technologies |
+|---------|--------------|
+| ⚛️ Frontend | React.js, Tailwind CSS, HTML, CSS |
+| 🌐 Backend | Node.js, FastAPI, Flask |
+| 🔌 APIs | REST APIs, WebSockets |
+| 🗄️ Databases | MongoDB, MySQL |
+| 🔧 Version Control | Git, GitHub |
+| 🏗️ System Design | Scalable Architecture |
+| ⚡ Performance Optimization | Backend Optimization |
+| 🧪 Testing & Debugging | Debugging & Error Handling |
+| 📡 Real-time Systems | Chat Applications |
+| 🖥️ SaaS Development | Full-stack SaaS Platforms |
+
+---
+
+⭐ Passionate about building scalable AI systems, enterprise-grade GenAI applications, intelligent automation tools, and high-performance full-stack platforms.
 
 
 ## 🎓 Education
