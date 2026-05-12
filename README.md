@@ -8,7 +8,6 @@ I build end-to-end ML systems — from raw data pipelines to production deployme
 
 ---
 
-## 🛠️ Tech I Work With
 
 # 🚀 Technical Skills
 
