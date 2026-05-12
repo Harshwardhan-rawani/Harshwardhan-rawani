@@ -2,9 +2,12 @@
 
 **AI Engineer · Data Scientist · ML Engineer** | Bangalore, India
 
-## About me
-B.Tech CS (AI/ML) at Aditya University, graduated 2026.  
-I build end-to-end ML systems — from raw data pipelines to production deployment. My work spans fraud detection, LLM fine-tuning, RAG chatbots, and multimodal AI. I care about real-world performance: every project I ship has metrics that matter.
+# About me
+B.Tech Computer Science (AI/ML) student at Aditya University with a CGPA of 8.2/10, graduating in 2026. 
+
+Passionate about Artificial Intelligence, Machine Learning, Generative AI, and scalable software engineering, with strong foundations in Python, data science, deep learning, and backend development.
+
+Skilled in building production-ready AI systems using technologies like LangChain, FastAPI, React, Docker, AWS, and modern ML frameworks. Interested in LLMs, RAG architectures, AI agents, and cloud-based AI deployment, with a strong focus on performance, scalability, and solving real-world problems through intelligent systems.
 
 ---
 
