@@ -3,7 +3,7 @@
 **AI Engineer · Data Scientist · ML Engineer** | Bangalore, India
 
 ## About me
-Final-year B.Tech CS (AI/ML) at Aditya University, graduating 2026.  
+B.Tech CS (AI/ML) at Aditya University, graduated 2026.  
 I build end-to-end ML systems — from raw data pipelines to production deployment. My work spans fraud detection, LLM fine-tuning, RAG chatbots, and multimodal AI. I care about real-world performance: every project I ship has metrics that matter.
 
 ---
@@ -13,7 +13,7 @@ I build end-to-end ML systems — from raw data pipelines to production deployme
 | 🎨 **Frontend** | ⚙️ **Backend** | ☁️ **Databases & Cloud** |
 |----------------|---------------|--------------------------|
 | ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB |
-| ⏭️ Next.js | 🚂 Express.js | 🐘 PostgreSQL |
+| 🚂 Express.js | 🐘 PostgreSQL |
 | 🟨 JavaScript | 🐍 Django | 🔧 Git & GitHub |
 | 🔷 TypeScript | 🔗 REST APIs | ▲ Vercel |
 | 🎨 Tailwind CSS | 🔄 WebSockets | ☁️ Cloud Deployment |
@@ -23,18 +23,7 @@ I build end-to-end ML systems — from raw data pipelines to production deployme
 
 ---
 
-| 🤖 **AI / Machine Learning** | 🧰 **Tools & Practices** |
-|----------------------------|-------------------------|
-| 🐍 Python | 🔧 Git |
-| 📐 NumPy | 🐙 GitHub |
-| 🐼 Pandas | 🔌 API Design |
-| 📊 Matplotlib | 🏗️ SaaS Architecture |
-| 🧠 Machine Learning Models | ⚡ Performance Optimization |
-| 🧹 Data Preprocessing | 🧼 Clean Code Practices |
-| 🧬 LLM Integration (ChatGPT, Open-Source Models) | 🧩 System Design |
-| 🤖 AI Agents |  |
-| 📚 RAG Systems |  |
-| 💬 Intelligent Chatbots |  |
+🤖 AI / Machine Learning📊 Data Science⚡ Generative AI & LLMs🛠️ Frameworks & Libraries🗄️ Data & Databases🧰 Tools & Practices🐍 Python📐 NumPy🧠 LLM Integration (GPT-4, Claude, Gemini)🔥 PyTorch🐘 PostgreSQL🔧 Git & GitHub🧹 Data Preprocessing🐼 Pandas🤖 AI Agents🧮 TensorFlow / Keras🍃 MongoDB🐳 Docker🧠 ML Models (Supervised / Unsupervised)📊 Matplotlib / Seaborn📚 RAG Systems🤗 Hugging Face Transformers🔴 Redis🔌 REST API Design🎯 Model Evaluation & Tuning📉 Statistical Analysis💬 Prompt Engineering🦜 LangChain☁️ Vector Databases (Pinecone, FAISS)🧩 System Design🔍 Feature Engineering📐 Hypothesis Testing🔗 LangGraph / Agentic Workflows🚀 FastAPI🗃️ SQL🏗️ SaaS Architecture🌲 Ensemble Methods (XGBoost, Random Forest)📊 EDA (Exploratory Data Analysis)🧬 Fine-Tuning LLMs🌐 Streamlit📦 ETL Pipelines⚡ Performance Optimization🧪 A/B Testing📈 Data Visualization🖼️ Multimodal AI🎛️ Scikit-learn🔗 ChromaDB🧼 Clean Code Practices🎛️ Hyperparameter Optimization🗂️ Data Wrangling🔎 Semantic Search🧠 OpenAI API📡 REST / GraphQL🔐 API Security📦 Model Deployment📊 Dashboarding (Power BI / Tableau)🤖 Chatbot Development🦙 Ollama (Local LLMs)🗄️ Firebase🧪 Unit Testing🧮 Deep Learning🔢 Feature Scaling & Encoding🗂️ Knowledge Base Design⚙️ Celery / Task Queues🛢️ MySQL📋 Agile / Scrum🔄 Transfer Learning📐 Dimensionality Reduction (PCA, t-SNE)🧩 Tool Calling & Function Use🌊 Kafka (basics)📂 Data Pipelines🚀 CI/CD Basics🛡️ Fraud Detection Systems📋 Model Interpretability (SHAP, LIME)🪄 AI Workflow Automation🖥️ React / Next.js☁️ AWS / GCP (basics)📄 Technical Documentation🎯 NLP (Text Classification, NER)📊 Time Series Analysis🔁 Retrieval-Augmented Generation🟢 Node.js / Express🐳 Docker Compose📐 DSA (400+ problems)🧠 Neural Networks (CNN, RNN, LSTM)🔍 Anomaly Detection🌐 Multi-Agent Systems🐍 Flask☁️ Supabase🔍 Code Review
 
 
 ## 🎓 Education
