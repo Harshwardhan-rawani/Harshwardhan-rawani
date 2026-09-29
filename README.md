@@ -1,6 +1,6 @@
 # Hey, I'm Harshwardhan Rawani 👋
 
-**AI Engineer · Data Scientist · ML Engineer** | Bangalore, India
+**AI Engineer · Data Scientist · Web Developer** | Bangalore, India
 
 # About me
 B.Tech Computer Science (AI/ML) student at Aditya University with a CGPA of 8.2/10, graduating in 2026. 
